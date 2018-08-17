@@ -10,4 +10,5 @@
 
 # Deep learning
 * http://deeplearning.net/bibliography/
+* https://ai.amundtveit.com/
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib
