@@ -2,6 +2,8 @@
 * https://scholar.google.com/
 * https://www.jstor.org/
 * https://arxiv.org/
+* https://www.bibsonomy.org/
+
 
 # Deep learning
 * http://deeplearning.net/bibliography/
