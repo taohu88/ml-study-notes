@@ -12,3 +12,6 @@
 * http://deeplearning.net/bibliography/
 * https://ai.amundtveit.com/
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib
+
+# Variational
+* https://github.com/jluttine/variational-bayes-book/blob/master/source/bibliography.bib
