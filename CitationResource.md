@@ -5,6 +5,7 @@
 * https://dl.acm.org/citation.cfm?id=1162264
 * https://www.bibsonomy.org/
 * https://dblp.uni-trier.de/
+* https://liinwww.ira.uka.de/csbib/Ai/MACHLEARN
 
 # Deep learning
 * http://deeplearning.net/bibliography/
