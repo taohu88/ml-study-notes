@@ -2,6 +2,7 @@
 * https://scholar.google.com/
 * https://www.jstor.org/
 * https://arxiv.org/
+* https://dl.acm.org/citation.cfm?id=1162264
 * https://www.bibsonomy.org/
 
 
