@@ -1,1 +1,2 @@
-# ml-study-notes
+# Study notes
+* EM
