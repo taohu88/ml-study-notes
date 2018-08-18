@@ -5,6 +5,9 @@
 # Template
 * https://www.sharelatex.com/templates/cv-or-resume
 
+# Tool
+* [Draw symbols](http://detexify.kirelabs.org/classify.html)
+
 # Resource
 * https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
 * http://www.malinc.se/math/latex/basiccodeen.php
